@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-	你萌好，I am 臭学游开的，准备玩够之后进厂打螺丝💻
+	你好，本人前端菜鸟一只，请求多多指教💻
 </p>
 
 <p align="center">
-  🔭 我的博客 <a href="https://www.flashfish777.cn" target="_blank">flashfish777-blog</a>
+  🔭 我的博客 <a href="https://www.flashfish777.cn" target="_blank">暂无</a>
 </p>
 
 <p align="center">
