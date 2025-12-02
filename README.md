@@ -6,7 +6,7 @@
       <h3>👨‍💻 关于我</h3>
       <ul>
 		 <li>🐧 可以在这里找到我: <a href="mailto:3029281534@qq.com">3029281534</a></li>
-        <li>💬 可以在这里找到我: <a href="mailto:3029281534@qq.com">Email</a></li>
+        <li>💬 可以在这里找到我: <a href="3029281534@qq.com">3029281534@qq.com</a></li>
       </ul>
     </td>
     <td width="40%">
