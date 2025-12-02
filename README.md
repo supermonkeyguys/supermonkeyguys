@@ -5,10 +5,8 @@
     <td width="60%" valign="top">
       <h3>👨‍💻 关于我</h3>
       <ul>
-        <li>🔭 我目前正在研究 <b>React 源码</b> 和 <b>NestJS</b></li>
-        <li>🌱 我正在学习 <b>微前端架构</b></li>
-        <li>👯 我希望能和大家在 <b>开源项目</b> 上合作</li>
-        <li>💬 可以在这里找到我: <a href="mailto:你的邮箱@gmail.com">Email</a></li>
+		 <li>🐧 可以在这里找到我: <a href="mailto:3029281534@qq.com">3029271534</a></li>
+        <li>💬 可以在这里找到我: <a href="mailto:3029281534@qq.com">Email</a></li>
       </ul>
     </td>
     <td width="40%">
