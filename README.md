@@ -5,7 +5,7 @@
     <td width="60%" valign="top">
       <h3>👨‍💻 关于我</h3>
       <ul>
-		 <li>🐧 可以在这里找到我: <a href="mailto:3029281534@qq.com">3029271534</a></li>
+		 <li>🐧 可以在这里找到我: <a href="mailto:3029281534@qq.com">3029281534</a></li>
         <li>💬 可以在这里找到我: <a href="mailto:3029281534@qq.com">Email</a></li>
       </ul>
     </td>
@@ -21,7 +21,6 @@
   <h3>👋 你好，本人前端菜鸟一只，请多多指教 💻</h3>
 
   <p>
-    🔭 我的博客: <a href="https://www.flashfish777.cn" target="_blank">flashfish777.cn</a> (建设中...) <br/>
     🚀 团队主页: <a href="https://github.com/lec-org" target="_blank">lec-org</a>
   </p>
 
