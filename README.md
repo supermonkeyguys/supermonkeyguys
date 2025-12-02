@@ -1,54 +1,55 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=Hi,traveller!&fontSize=60&fontAlign=50&fontAlignY=36&desc=&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
-
-<p align="center">
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=3000&center=true&color=FFDAAD&vCenter=true&repeat=true&width=435&lines=Welcome+to+my+GitHub." />
-</p>
-
-<p align="center">
-	你好，本人前端菜鸟一只，请求多多指教💻
-</p>
-
-<p align="center">
-  🔭 我的博客 <a href="https://www.flashfish777.cn" target="_blank">暂无</a>
-</p>
-
-<p align="center">
-  🔭 最好的乐程团队 <a href="https://github.com/lec-org" target="_blank">lec-org</a>
-</p>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/supermonkeyguys">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=supermonkeyguys&locale=cn&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github" />
-  </a>
-  <a href="https://github.com/supermonkeyguys">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supermonkeyguys&locale=en&line_height=33&theme=dracula&langs_count=6&layout=compact" />
-  </a>
-</p>
 
 <div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447663-4872d900-af3e-11eb-9c1b-94a4bff1b63b.png" alt="TypeScript" title="TypeScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b81b-644daa5c332f.png" alt="MongoDB" title="MongoDB"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="NestJS" title="NestJS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍💻 关于我</h3>
+      <ul>
+        <li>🔭 我目前正在研究 <b>React 源码</b> 和 <b>NestJS</b></li>
+        <li>🌱 我正在学习 <b>微前端架构</b></li>
+        <li>👯 我希望能和大家在 <b>开源项目</b> 上合作</li>
+        <li>💬 可以在这里找到我: <a href="mailto:你的邮箱@gmail.com">Email</a></li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+    </td>
+  </tr>
+</table>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=200&section=header&text=Hi,%20I'm%20supermonkeyguys!&fontSize=50&fontAlign=50&fontAlignY=35&animation=twinkling" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+NestJS+Enthusiast;Always+Learning...;Welcome+to+my+GitHub!" />
+
+  <h3>👋 你好，本人前端菜鸟一只，请多多指教 💻</h3>
+
+  <p>
+    🔭 我的博客: <a href="https://www.flashfish777.cn" target="_blank">flashfish777.cn</a> (建设中...) <br/>
+    🚀 团队主页: <a href="https://github.com/lec-org" target="_blank">lec-org</a>
+  </p>
+
+  <h3>🛠️ Tech Stack</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,mongodb,nestjs,git,github,vscode,postman&perline=11" />
+  </a>
+
+  <br/><br/>
+
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=supermonkeyguys&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supermonkeyguys&layout=compact&theme=dracula&langs_count=6&hide_border=true" />
+  </div>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=supermonkeyguys&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+  <br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/supermonkeyguys/supermonkeyguys/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/supermonkeyguys/supermonkeyguys/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/supermonkeyguys/supermonkeyguys/output/github-contribution-grid-snake.svg">
+  </picture>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=150&section=footer&text=Make%20Lec%20Great%20Again!&fontSize=30&fontAlign=50&fontAlignY=40&animation=twinkling" />
 </div>
-
-<p align="center">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=supermonkeyguys&theme=gruvbox-duo&hide_border=%E7%9C%9F&border_radius=6&locale=zh_Hans&date_format=%5BY%20%5DM%20j&mode=weekly" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/supermonkeyguys/supermonkeyguys/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/supermonkeyguys/supermonkeyguys/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/supermonkeyguys/supermonkeyguys/output/github-contribution-grid-snake.svg">
-</picture>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=Make+Lec+Great+Again!&fontSize=40&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
