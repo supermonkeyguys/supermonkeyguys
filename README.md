@@ -22,7 +22,6 @@
   <h3>👋 你好，本人前端菜鸟一只，请多多指教 💻</h3>
 
   <p>
-    🔭 我的博客: <a href="https://www.flashfish777.cn" target="_blank">flashfish777.cn</a> (建设中...) <br/>
     🚀 团队主页: <a href="https://github.com/lec-org" target="_blank">lec-org</a>
   </p>
 
