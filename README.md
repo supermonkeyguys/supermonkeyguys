@@ -41,11 +41,11 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=supermonkeyguys&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
   </p>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/supermonkeyguys/supermonkeyguys/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/supermonkeyguys/supermonkeyguys/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/supermonkeyguys/supermonkeyguys/output/github-contribution-grid-snake.svg">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/supermonkeyguys/supermonkeyguys@output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/supermonkeyguys/supermonkeyguys@output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/supermonkeyguys/supermonkeyguys@output/github-contribution-grid-snake.svg">
+</picture>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=150&section=footer&text=Make%20Lec%20Great%20Again!&fontSize=30&fontAlign=50&fontAlignY=40&animation=twinkling" />
 </div>
